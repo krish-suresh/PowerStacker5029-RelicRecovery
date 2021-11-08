@@ -7,4 +7,7 @@ CAD of final robot:
 
 ## Autonomous Mode
 This season, we developed one of the highest performing autonomous routines in the world. Below is a video of the robot scoring a 6 glyph autonomous at the FIRST robotics world championships:
-![alt text](https://drive.google.com/file/d/15TWpHUrDPXo9r_5KVtdzo_SOolU0RwFL/view?usp=drivesdk)
+
+
+https://user-images.githubusercontent.com/12313362/140759203-8f6073fb-3395-4eb5-bfa1-2db3c4d93143.mp4
+
